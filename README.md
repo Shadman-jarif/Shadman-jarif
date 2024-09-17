@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- My Proftolio Link [https://shadman-jarif.github.io/Real-Proftoilo/](https://shadman-jarif.github.io/Real-Proftoilo/)
-
 - 💬 Ask me about **HTML/CSS**
 
 - 📫 How to reach me **shadmanjarif101@gmail.com**
