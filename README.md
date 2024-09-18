@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shadman Jarif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400"https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+<img align="right" alt="Coding" width="400"
+https://github.com/user-attachments/assets/9c79b8c5-277c-4685-bf00-89eace194c28">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadman-jarif&label=Profile%20views&color=0e75b6&style=flat" alt="shadman-jarif" /> </p>
