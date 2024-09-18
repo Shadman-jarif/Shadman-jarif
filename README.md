@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadman Jarfi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-https://i.pinimg.com/474x/85/04/77/850477fed08bfe98598082bcd309ce70.jpg
+<img src=https://i.pinimg.com/474x/85/04/77/850477fed08bfe98598082bcd309ce70.jpg>
 
 - 🔭 I’m currently working on **History and Heritage Club**
 
