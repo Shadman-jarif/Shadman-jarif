@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadman-jarif" alt="shadman-jarif" /></a> </p>
 
-- 🔭 I’m currently working on **History and Heritage Club**
+- 🔭 I’m currently working on **Cooking Diaries**
 
 - 🌱 I’m currently learning **Python**
 
