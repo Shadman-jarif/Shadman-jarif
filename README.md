@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- My Proftolio: [https://shadman-jarif.github.io/Proftoilo/](https://shadman-jarif.github.io/Proftoilo/)
+- My Proftolio: [Proftolio](https://shadman-jarif.github.io/Proftoilo/)
 
-- My FoodBlog [https://shadman-jarif.github.io/Food_Blog/](https://shadman-jarif.github.io/Food_Blog/)
+- My FoodBlog [Foodblog](https://shadman-jarif.github.io/Food_Blog/)
 
 - 💬 Ask me about **HTML/CSS**
 
@@ -25,6 +25,7 @@
 <a href="https://twitter.com/@jarif_shad94423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jarif_shad94423" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shadman jarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadman jarif" height="30" width="40" /></a>
 <a href="https://fb.com/shadman jarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadman jarif" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shadman jarif" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadman jarif" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shadmanjarif101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shadmanjarif101" height="30" width="40" /></a>
 </p>
 
