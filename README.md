@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- My Proftolio: [Proftolio](https://shadman-jarif.github.io/Proftoilo/)
+- My  [Proftolio](https://shadman-jarif.github.io/Proftoilo/)
 
-- My FoodBlog [Foodblog](https://shadman-jarif.github.io/Food_Blog/)
+- My  [Foodblog](https://shadman-jarif.github.io/Food_Blog/)
 
 - 💬 Ask me about **HTML/CSS**
 
