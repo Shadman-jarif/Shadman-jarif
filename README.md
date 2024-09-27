@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadman-jarif&label=Profile%20views&color=0e75b6&style=flat" alt="shadman-jarif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadman-jarif" alt="shadman-jarif" /></a> </p>
-
 - 🔭 I’m currently working on **Cooking Diaries**
 
 - 🌱 I’m currently learning **Python**
@@ -35,4 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadman-jarif&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="shadman-jarif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadman-jarif&show_icons=true&locale=en" alt="shadman-jarif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadman-jarif&" alt="shadman-jarif" /></p>
 
