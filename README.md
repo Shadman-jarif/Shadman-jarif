@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadman Jarif</h1>
 <h3 align="center">Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFudWo0N3drcTBnd3VxdGZhZHl6enh0YTBkMmNseWt2eTV4eXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadman-jarif&label=Profile%20views&color=0e75b6&style=flat" alt="shadman-jarif" /> </p>
 
