@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shadman Jarif</h1>
 <h3 align="center">Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFudWo0N3drcTBnd3VxdGZhZHl6enh0YTBkMmNseWt2eTV4eXA3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadman-jarif&label=Profile%20views&color=0e75b6&style=flat" alt="shadman-jarif" /> </p>
 
