@@ -1,68 +1,59 @@
-<h1 align="center">Hi 👋 I'm Shadman Jarif</h1>
-<h3 align="center">🚀 IoT Developer | Front-End Developer | Game Dev Enthusiast</h3>
+<h2 align="left">Hi 👋! My name is Shadman Jarif and I'm an IoT & Front-End Developer from Bangladesh 🇧🇩</h2>
 
-<p align="center">
-  From 🇧🇩 Bangladesh | Building smart systems & creative web experiences
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 👨‍💻 About Me
+###
 
-- 🔭 I build **IoT projects using Arduino & ESP32**
-- 🌐 Front-end developer using **HTML, CSS, JavaScript**
-- 🎮 Learning **Godot** for game development
-- 🤖 Robotics & Smart Automation Enthusiast
-- 📚 Always learning new tech
-- ⚡ Fun fact: I love building systems that make people say "Bro built this himself?!"
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🛠 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-### 💻 Programming
-- JavaScript
-- C
-- Python
+###
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+<div align="left">
+  <a href="https://youtube.com/">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🤖 IoT & Hardware
-- Arduino
-- ESP32
-- MPU6050
-- Sensors & Automation Systems
+###
 
-### 🎮 Game Development
-- Godot Engine
+<br clear="both">
 
-### 🔧 Tools
-- Git
-- GitHub
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula" height="150"/>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-- YouTube
-- Instagram
-- LinkedIn
-- Discord
-- Gmail
-
----
-
-⭐ "Building the future one project at a time."
+###
